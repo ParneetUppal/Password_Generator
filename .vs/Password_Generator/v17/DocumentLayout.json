@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\PARNEET UPPAL\\GITHUB   (contains workspace vs code)\\My Project\\Password_Generator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69669C85-02FD-4BF7-A67F-7C554F2DD045}|Password_Generator\\Password_Generator.csproj|c:\\parneet uppal\\github   (contains workspace vs code)\\my project\\password_generator\\password_generator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69669C85-02FD-4BF7-A67F-7C554F2DD045}|Password_Generator\\Password_Generator.csproj|solutionrelative:password_generator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69669C85-02FD-4BF7-A67F-7C554F2DD045}|Password_Generator\\Password_Generator.csproj|C:\\PARNEET UPPAL\\GITHUB   (contains workspace vs code)\\My Project\\Password_Generator\\password_generator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{69669C85-02FD-4BF7-A67F-7C554F2DD045}|Password_Generator\\Password_Generator.csproj|solutionrelative:password_generator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\PARNEET UPPAL\\GITHUB   (contains workspace vs code)\\My Project\\Password_Generator\\Password_Generator\\Form1.cs",
+              "RelativeDocumentMoniker": "Password_Generator\\Form1.cs",
+              "ToolTip": "C:\\PARNEET UPPAL\\GITHUB   (contains workspace vs code)\\My Project\\Password_Generator\\Password_Generator\\Form1.cs",
+              "RelativeToolTip": "Password_Generator\\Form1.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAAADYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T21:42:52.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\PARNEET UPPAL\\GITHUB   (contains workspace vs code)\\My Project\\Password_Generator\\Password_Generator\\Form1.cs",
+              "RelativeDocumentMoniker": "Password_Generator\\Form1.cs",
+              "ToolTip": "C:\\PARNEET UPPAL\\GITHUB   (contains workspace vs code)\\My Project\\Password_Generator\\Password_Generator\\Form1.cs [Design]",
+              "RelativeToolTip": "Password_Generator\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T21:29:18.984Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
